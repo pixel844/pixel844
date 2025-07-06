@@ -1,22 +1,2 @@
-# 👋 Hi, I'm John Ajera
-
-Welcome to my GitHub! I explore infrastructure, automation, and cloud-native tooling through modular and real-world demos.
-
-## 🚀 Tech Focus
-- Infrastructure as Code (Terraform, Pulumi)
-- Serverless (Lambda@Edge, Fastly Compute)
-- CI/CD (GitHub Actions, reusable workflows)
-- Languages (Go, Node.js)
-
-## 🔧 Recent Projects
-- S3 browser using Lambda@Edge
-- Team syncing via GitHub Actions + issues
-- Fluent Bit logging for EKS Fargate
-
-## ✨ Automation
-- DevContainer setup scripts
-- CI for semantic versioning & badge updates
-- Multi-account Terraform patterns
-
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=jajera)
+# sup im pixel, a junior dev who drinks way too much caffeinated tea :godmode:
+![Stats](https://github-readme-stats.vercel.app/api?username=pixel844)
